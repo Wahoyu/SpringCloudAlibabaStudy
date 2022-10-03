@@ -1,6 +1,4 @@
 
-l
-<borrow-service/src/main/java/com/test/BorrowApplication.java,2\b\2b3cc2b8baf14de3938085684e9816747fecbc5d
 h
 8user-service/src/main/java/com/test/UserApplication.java,b\b\bbf6a1027580380101921035fb50f0b6b3c09360
 ?
@@ -13,7 +11,5 @@ V
 &commons/src/main/java/entity/User.java,4\b\4bf1501a304113f8a1f27c96a02c7d339dba6352
 n
 >borrow-service/src/main/java/com/test/mapper/BorrowMapper.java,8\c\8ce91fd06d48c3be6a383bd4b9061d3a6d54f67c
-p
-@borrow-service/src/main/java/com/test/service/BorrowService.java,5\8\587d6bca32862766b15b9c80da0386aefd92ddd9
 r
 Bborrow-service/src/main/java/com/test/entity/UserBorrowDetail.java,6\1\616266f37e5d4bdff71c1209a919c5fb5e591405

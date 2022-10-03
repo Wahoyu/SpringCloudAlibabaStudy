@@ -1,5 +1,5 @@
-server:
-  port: 8101
+#server:
+#  port: 8101
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
@@ -14,3 +14,7 @@ spring:
       discovery:
         # 配置Nacos注册中心地址
         server-addr: localhost:8848
+    # 将loadbalancer的nacos支持开启，集成Nacos负载均衡
+    loadbalancer:
+      nacos:
+        enabled: true
