@@ -1,0 +1,248 @@
+2022-10-03 12:30:33,035 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.96.106:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 12:30:33,037 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.96.106:8101_true,
+
+2022-10-03 12:33:38,439 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.96.106:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 12:33:38,443 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.96.106:8101_true,
+
+2022-10-03 12:35:18,225 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.96.106:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 12:35:18,225 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 
+
+2022-10-03 12:35:25,957 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.96.106:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 12:35:25,957 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.96.106:8201_true,
+
+2022-10-03 12:35:29,743 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.96.106:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 12:35:29,743 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 172.20.96.106:8301_true,
+
+2022-10-03 12:35:31,685 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.96.106:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 12:35:31,685 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.96.106:8101_true,
+
+2022-10-03 13:20:00,691 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.96.106:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 13:20:00,691 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 
+
+2022-10-03 13:20:00,732 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.96.106:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 13:20:00,732 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-10-03 13:20:00,744 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.96.106:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 13:20:00,744 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 
+
+2022-10-03 13:20:12,326 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.96.106:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 13:20:12,326 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.96.106:8201_true,
+
+2022-10-03 13:20:14,509 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.96.106:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 13:20:14,509 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.96.106:8101_true,
+
+2022-10-03 13:20:17,826 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.96.106:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 13:20:17,826 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 172.20.96.106:8301_true,
+
+2022-10-03 13:34:11,546 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.96.106:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 13:34:11,546 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 
+
+2022-10-03 13:34:11,562 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.96.106:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 13:34:11,562 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-10-03 13:34:11,566 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.96.106:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 13:34:11,566 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 
+
+2022-10-03 13:34:25,933 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.96.106:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 13:34:25,933 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.96.106:8201_true,
+
+2022-10-03 13:34:29,544 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.96.106:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 13:34:29,544 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 172.20.96.106:8301_true,
+
+2022-10-03 13:34:32,779 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.96.106:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 13:34:32,779 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.96.106:8101_true,
+
+2022-10-03 13:51:06,052 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.96.106:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 13:51:06,052 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 
+
+2022-10-03 13:51:06,100 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.96.106:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 13:51:06,100 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-10-03 13:51:06,169 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.96.106:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 13:51:06,169 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 
+
+2022-10-03 13:51:10,788 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.96.106:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 13:51:10,788 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.96.106:8102_true,
+
+2022-10-03 13:51:12,781 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.96.106:8202:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 13:51:12,781 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.96.106:8202_true,
+
+2022-10-03 13:51:17,179 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.96.106:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 13:51:17,179 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.96.106:8202_true,172.20.96.106:8201_true,
+
+2022-10-03 13:51:19,220 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.96.106:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 13:51:19,220 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 172.20.96.106:8301_true,
+
+2022-10-03 13:51:20,860 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.96.106:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 13:51:20,860 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.96.106:8101_true,172.20.96.106:8102_true,
+
+2022-10-03 14:04:06,433 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.96.106:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 14:04:06,433 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.96.106:8101_true,
+
+2022-10-03 14:04:06,467 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.96.106:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 14:04:06,467 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 
+
+2022-10-03 14:04:06,495 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.96.106:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 14:04:06,495 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.96.106:8202_true,
+
+2022-10-03 14:04:06,542 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.96.106:8202:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 14:04:06,542 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-10-03 14:04:06,558 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.96.106:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 14:04:06,558 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 
+
+2022-10-03 14:04:19,926 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.96.106:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 14:04:19,926 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.96.106:8201_true,
+
+2022-10-03 14:04:22,135 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.96.106:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 14:04:22,135 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.96.106:8102_true,
+
+2022-10-03 14:04:24,473 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.96.106:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 14:04:24,473 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.96.106:8101_true,172.20.96.106:8102_true,
+
+2022-10-03 14:04:26,731 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.96.106:8202:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 14:04:26,732 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.96.106:8202_true,172.20.96.106:8201_true,
+
+2022-10-03 14:04:28,520 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [172.20.96.106:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 14:04:28,520 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 172.20.96.106:8301_true,
+
+2022-10-03 14:53:55,495 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.96.106:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 14:53:55,496 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.96.106:8101_true,
+
+2022-10-03 14:53:55,500 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.96.106:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 14:53:55,500 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 
+
+2022-10-03 14:53:55,567 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.96.106:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 14:53:55,567 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.96.106:8202_true,
+
+2022-10-03 14:53:55,595 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.96.106:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 14:53:55,595 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 
+
+2022-10-03 14:53:55,623 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [172.20.96.106:8202:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-10-03 14:53:55,623 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-10-03 14:54:06,750 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-NEW} cluster: Tianjin, new ips size: 1, content: [172.20.96.106:8102:unknown:Tianjin_1.0_true_false_Tianjin]
+
+2022-10-03 14:54:06,750 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.96.106:8102_true,
+
+2022-10-03 14:54:09,124 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: Tianjin, new ips size: 1, content: [172.20.96.106:8202:unknown:Tianjin_1.0_true_false_Tianjin]
+
+2022-10-03 14:54:09,124 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.96.106:8202_true,
+
+2022-10-03 14:54:11,381 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-NEW} cluster: Shenyang, new ips size: 1, content: [172.20.96.106:8101:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-03 14:54:11,381 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.96.106:8101_true,172.20.96.106:8102_true,
+
+2022-10-03 14:54:13,482 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: Shenyang, new ips size: 1, content: [172.20.96.106:8201:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-03 14:54:13,482 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.96.106:8201_true,172.20.96.106:8202_true,
+
+2022-10-03 14:54:15,232 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-NEW} cluster: Shenyang, new ips size: 1, content: [172.20.96.106:8301:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-03 14:54:15,232 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 172.20.96.106:8301_true,
+
+2022-10-03 15:02:31,513 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-DEAD} cluster: Tianjin, dead ips size: 1, content: [172.20.96.106:8102:unknown:Tianjin_1.0_true_false_Tianjin]
+
+2022-10-03 15:02:31,513 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.96.106:8101_true,
+
+2022-10-03 15:02:31,569 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-DEAD} cluster: Shenyang, dead ips size: 1, content: [172.20.96.106:8101:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-03 15:02:31,569 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 
+
+2022-10-03 15:02:31,588 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: Shenyang, dead ips size: 1, content: [172.20.96.106:8201:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-03 15:02:31,588 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.96.106:8202_true,
+
+2022-10-03 15:02:31,627 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: Tianjin, dead ips size: 1, content: [172.20.96.106:8202:unknown:Tianjin_1.0_true_false_Tianjin]
+
+2022-10-03 15:02:31,627 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-10-03 15:02:31,634 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-DEAD} cluster: Shenyang, dead ips size: 1, content: [172.20.96.106:8301:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-03 15:02:31,634 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 
+
+2022-10-03 15:02:43,133 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-NEW} cluster: Shenyang, new ips size: 1, content: [172.20.96.106:8101:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-03 15:02:43,133 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.96.106:8101_true,
+
+2022-10-03 15:02:45,702 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: Shenyang, new ips size: 1, content: [172.20.96.106:8201:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-03 15:02:45,702 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.96.106:8201_true,
+
+2022-10-03 15:02:48,293 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-NEW} cluster: Tianjin, new ips size: 1, content: [172.20.96.106:8102:unknown:Tianjin_1.0_true_false_Tianjin]
+
+2022-10-03 15:02:48,294 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.96.106:8101_true,172.20.96.106:8102_true,
+
+2022-10-03 15:02:50,464 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: Tianjin, new ips size: 1, content: [172.20.96.106:8202:unknown:Tianjin_1.0_true_false_Tianjin]
+
+2022-10-03 15:02:50,464 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.96.106:8201_true,172.20.96.106:8202_true,
+
+2022-10-03 15:02:52,310 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-NEW} cluster: Shenyang, new ips size: 1, content: [172.20.96.106:8301:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-03 15:02:52,310 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 172.20.96.106:8301_true,
+
+2022-10-03 18:04:43,996 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-DEAD} cluster: Shenyang, dead ips size: 1, content: [172.20.96.106:8301:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-03 18:04:43,996 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 
+
+2022-10-03 18:05:03,663 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-NEW} cluster: Shenyang, new ips size: 1, content: [172.20.96.106:8301:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-03 18:05:03,663 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 172.20.96.106:8301_true,
+
+2022-10-03 18:07:14,413 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-DEAD} cluster: Shenyang, dead ips size: 1, content: [172.20.96.106:8301:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-03 18:07:14,413 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 
+
+2022-10-03 18:08:45,800 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-NEW} cluster: Shenyang, new ips size: 1, content: [172.20.96.106:8301:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-03 18:08:45,800 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 172.20.96.106:8301_true,
+
+2022-10-03 18:10:34,798 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-DEAD} cluster: Shenyang, dead ips size: 1, content: [172.20.96.106:8301:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-03 18:10:34,798 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 
+
+2022-10-03 18:10:47,140 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-NEW} cluster: Shenyang, new ips size: 1, content: [172.20.96.106:8301:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-03 18:10:47,140 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 172.20.96.106:8301_true,
+
