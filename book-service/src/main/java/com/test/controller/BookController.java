@@ -12,11 +12,21 @@ import javax.annotation.Resource;
 public class BookController {
 
     @Resource
-    BookService bookService;
+    BookService service;
 
     @RequestMapping("/book/{bid}")
-    public Book getBookById(@PathVariable("bid")int bid){
-        System.out.println("此处调用了服务！");
-        return bookService.getBookById(bid);
+    Book findBookById(@PathVariable("bid") int bid){
+        return service.getBookById(bid);
+    }
+
+    @RequestMapping("/book/remain/{bid}")
+    public int bookRemain(@PathVariable("bid") int uid){
+        return service.getRemain(uid);
+    }
+
+    @RequestMapping("/book/borrow/{bid}")
+    public boolean bookBorrow(@PathVariable("bid") int uid){
+        int remain = service.getRemain(uid);
+        return service.setRemain(uid, remain - 1);
     }
 }

@@ -1,0 +1,6 @@
+2022-10-04 08:53:36,939|172.20.96.106|borrowservice|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-10-04 08:53:36,959|172.20.96.106|borrowservice.yml|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-10-04 08:53:37,030|172.20.96.106|borrowservice-dev.yml|DEFAULT_GROUP|null|unknown|1664791886407|pull|ok|52930623|127.0.0.1
+2022-10-04 08:56:17,918|172.20.96.106|borrowservice|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-10-04 08:56:17,933|172.20.96.106|borrowservice.yml|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-10-04 08:56:17,940|172.20.96.106|borrowservice-dev.yml|DEFAULT_GROUP|null|unknown|1664791886407|pull|ok|53091533|127.0.0.1
