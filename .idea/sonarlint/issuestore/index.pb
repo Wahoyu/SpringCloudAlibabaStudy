@@ -1,6 +1,4 @@
 
-h
-8user-service/src/main/java/com/test/UserApplication.java,b\b\bbf6a1027580380101921035fb50f0b6b3c09360
 ?
 commons/pom.xml,8\3\83c7f1c3bc8463fc5ab936b79403a9ba63515391
 X
@@ -11,16 +9,6 @@ V
 &commons/src/main/java/entity/User.java,4\b\4bf1501a304113f8a1f27c96a02c7d339dba6352
 r
 Bborrow-service/src/main/java/com/test/entity/UserBorrowDetail.java,6\1\616266f37e5d4bdff71c1209a919c5fb5e591405
-l
-<borrow-service/src/main/java/com/test/BorrowApplication.java,2\b\2b3cc2b8baf14de3938085684e9816747fecbc5d
-F
-borrow-service/pom.xml,a\f\afe34522af212c85394afd5e6452452bd0787319
-t
-Dborrow-service/src/main/java/com/test/controller/TestController.java,b\1\b12a5418cb558a02087ae1594dfa9d6c50966a18
-D
-book-service/pom.xml,e\6\e644ef49641e7b9b6b80b6181b8f9b17771bda26
-D
-user-service/pom.xml,d\2\d2f5d1978e5f519100a679c4109f89296278badc
 j
 :user-service/src/main/java/com/test/mapper/UserMapper.java,2\3\23486b42280a9e1dd1a759299d413b260582e07c
 u
@@ -29,3 +17,5 @@ r
 Buser-service/src/main/java/com/test/controller/UserController.java,5\a\5aa289296495989031a2cc7a084b904b8fd2748e
 l
 <book-service/src/main/java/com/test/service/BookService.java,d\c\dc6f7020d170d9e82b4fd253d9b14ecb33dd806d
+l
+<user-service/src/main/java/com/test/service/UserService.java,1\4\1480c5e5f0b4807fafe481734ce74646893336da

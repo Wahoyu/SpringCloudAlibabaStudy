@@ -1,3 +1,15 @@
 2022-10-05 09:14:23,064|172.20.32.90|borrowservice|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
 2022-10-05 09:14:23,077|172.20.32.90|borrowservice.yml|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
 2022-10-05 09:14:23,118|172.20.32.90|borrowservice-dev.yml|DEFAULT_GROUP|null|unknown|1664791886407|pull|ok|140576711|127.0.0.1
+2022-10-05 11:09:09,999|172.20.54.214|borrowservice|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-10-05 11:09:10,010|172.20.54.214|borrowservice.yml|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-10-05 11:09:10,033|172.20.54.214|borrowservice-dev.yml|DEFAULT_GROUP|null|unknown|1664791886407|pull|ok|147463626|127.0.0.1
+2022-10-05 16:22:08,399|172.20.20.157|borrowservice|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-10-05 16:22:08,431|172.20.20.157|borrowservice.yml|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-10-05 16:22:08,517|172.20.20.157|borrowservice-dev.yml|DEFAULT_GROUP|null|unknown|1664791886407|pull|ok|166242110|127.0.0.1
+2022-10-05 16:30:01,559|172.20.20.157|borrowservice|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-10-05 16:30:01,568|172.20.20.157|borrowservice.yml|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-10-05 16:30:01,571|172.20.20.157|borrowservice-dev.yml|DEFAULT_GROUP|null|unknown|1664791886407|pull|ok|166715164|127.0.0.1
+2022-10-05 16:54:16,049|172.20.20.157|borrowservice|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-10-05 16:54:16,061|172.20.20.157|borrowservice.yml|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1
+2022-10-05 16:54:16,066|172.20.20.157|borrowservice-dev.yml|DEFAULT_GROUP|null|unknown|1664791886407|pull|ok|168169659|127.0.0.1

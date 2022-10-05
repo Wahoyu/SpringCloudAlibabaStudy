@@ -18,3 +18,149 @@
 
 2022-10-05 09:14:31,737 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.32.90:8201_true,
 
+2022-10-05 10:41:14,585 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-NEW} cluster: Tianjin, new ips size: 1, content: [172.20.54.214:8102:unknown:Tianjin_1.0_true_false_Tianjin]
+
+2022-10-05 10:41:14,585 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.32.90:8101_true,172.20.54.214:8102_true,
+
+2022-10-05 10:41:16,398 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: Tianjin, new ips size: 1, content: [172.20.54.214:8202:unknown:Tianjin_1.0_true_false_Tianjin]
+
+2022-10-05 10:41:16,398 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.32.90:8201_true,172.20.54.214:8202_true,
+
+2022-10-05 10:59:59,562 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: Shenyang, new ips size: 1, content: [172.20.32.90:8201:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 10:59:59,578 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.32.90:8201_true,
+
+2022-10-05 10:59:59,578 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: Tianjin, new ips size: 1, content: [172.20.54.214:8202:unknown:Tianjin_1.0_true_false_Tianjin]
+
+2022-10-05 10:59:59,578 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.32.90:8201_true,172.20.54.214:8202_true,
+
+2022-10-05 10:59:59,578 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-NEW} cluster: Shenyang, new ips size: 1, content: [172.20.32.90:8101:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 10:59:59,578 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-NEW} cluster: Tianjin, new ips size: 1, content: [172.20.54.214:8102:unknown:Tianjin_1.0_true_false_Tianjin]
+
+2022-10-05 10:59:59,578 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.32.90:8101_true,172.20.54.214:8102_true,
+
+2022-10-05 10:59:59,578 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.32.90:8201_true,172.20.54.214:8202_true,
+
+2022-10-05 10:59:59,578 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.32.90:8201_true,172.20.54.214:8202_true,
+
+2022-10-05 10:59:59,640 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-NEW} cluster: Shenyang, new ips size: 1, content: [172.20.32.90:8301:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 10:59:59,640 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 172.20.32.90:8301_true,
+
+2022-10-05 11:02:59,458 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-DEAD} cluster: Tianjin, dead ips size: 1, content: [172.20.54.214:8102:unknown:Tianjin_1.0_true_false_Tianjin]
+
+2022-10-05 11:02:59,458 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.32.90:8101_true,
+
+2022-10-05 11:02:59,513 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-DEAD} cluster: Shenyang, dead ips size: 1, content: [172.20.32.90:8101:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 11:02:59,513 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 
+
+2022-10-05 11:02:59,513 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-DEAD} cluster: Shenyang, dead ips size: 1, content: [172.20.32.90:8301:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 11:02:59,513 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 
+
+2022-10-05 11:02:59,560 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: Shenyang, dead ips size: 1, content: [172.20.32.90:8201:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 11:02:59,560 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.54.214:8202_true,
+
+2022-10-05 11:02:59,560 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.54.214:8202_true,
+
+2022-10-05 11:02:59,560 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: Tianjin, dead ips size: 1, content: [172.20.54.214:8202:unknown:Tianjin_1.0_true_false_Tianjin]
+
+2022-10-05 11:02:59,560 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-10-05 11:02:59,560 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-10-05 11:09:08,260 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-NEW} cluster: Shenyang, new ips size: 1, content: [172.20.54.214:8101:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 11:09:08,261 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.54.214:8101_true,
+
+2022-10-05 11:09:13,418 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-NEW} cluster: Shenyang, new ips size: 1, content: [172.20.54.214:8301:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 11:09:13,418 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 172.20.54.214:8301_true,
+
+2022-10-05 11:09:14,585 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: Shenyang, new ips size: 1, content: [172.20.54.214:8201:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 11:09:14,585 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.54.214:8201_true,
+
+2022-10-05 12:17:14,326 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-DEAD} cluster: Shenyang, dead ips size: 1, content: [172.20.54.214:8101:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 12:17:14,326 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 
+
+2022-10-05 12:17:14,376 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-DEAD} cluster: Shenyang, dead ips size: 1, content: [172.20.54.214:8301:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 12:17:14,376 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 
+
+2022-10-05 12:17:14,411 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: Shenyang, dead ips size: 1, content: [172.20.54.214:8201:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 12:17:14,411 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-10-05 16:22:07,024 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-NEW} cluster: Tianjin, new ips size: 1, content: [172.20.20.157:8102:unknown:Tianjin_1.0_true_false_Tianjin]
+
+2022-10-05 16:22:07,028 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.20.157:8102_true,
+
+2022-10-05 16:22:09,493 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-NEW} cluster: Shenyang, new ips size: 1, content: [172.20.20.157:8101:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 16:22:09,493 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.20.157:8101_true,172.20.20.157:8102_true,
+
+2022-10-05 16:22:13,054 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-NEW} cluster: Shenyang, new ips size: 1, content: [172.20.20.157:8301:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 16:22:13,054 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 172.20.20.157:8301_true,
+
+2022-10-05 16:22:14,053 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: Shenyang, new ips size: 1, content: [172.20.20.157:8201:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 16:22:14,053 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.20.157:8201_true,
+
+2022-10-05 16:22:16,042 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: Tianjin, new ips size: 1, content: [172.20.20.157:8202:unknown:Tianjin_1.0_true_false_Tianjin]
+
+2022-10-05 16:22:16,042 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.20.157:8201_true,172.20.20.157:8202_true,
+
+2022-10-05 16:29:52,722 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-DEAD} cluster: Shenyang, dead ips size: 1, content: [172.20.20.157:8301:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 16:29:52,722 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 
+
+2022-10-05 16:30:04,445 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-NEW} cluster: Shenyang, new ips size: 1, content: [172.20.20.157:8301:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 16:30:04,445 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 172.20.20.157:8301_true,
+
+2022-10-05 16:53:57,057 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-DEAD} cluster: Tianjin, dead ips size: 1, content: [172.20.20.157:8102:unknown:Tianjin_1.0_true_false_Tianjin]
+
+2022-10-05 16:53:57,057 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.20.157:8101_true,
+
+2022-10-05 16:53:57,105 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-DEAD} cluster: Shenyang, dead ips size: 1, content: [172.20.20.157:8101:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 16:53:57,105 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 
+
+2022-10-05 16:53:57,126 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-DEAD} cluster: Shenyang, dead ips size: 1, content: [172.20.20.157:8301:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 16:53:57,126 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 
+
+2022-10-05 16:53:57,153 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: Shenyang, dead ips size: 1, content: [172.20.20.157:8201:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 16:53:57,153 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.20.157:8202_true,
+
+2022-10-05 16:53:57,204 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-DEAD} cluster: Tianjin, dead ips size: 1, content: [172.20.20.157:8202:unknown:Tianjin_1.0_true_false_Tianjin]
+
+2022-10-05 16:53:57,204 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 
+
+2022-10-05 16:54:12,173 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: Shenyang, new ips size: 1, content: [172.20.20.157:8201:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 16:54:12,173 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.20.157:8201_true,
+
+2022-10-05 16:54:14,962 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-NEW} cluster: Tianjin, new ips size: 1, content: [172.20.20.157:8102:unknown:Tianjin_1.0_true_false_Tianjin]
+
+2022-10-05 16:54:14,962 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.20.157:8102_true,
+
+2022-10-05 16:54:17,540 INFO DEFAULT_GROUP@@bookservice {SYNC} {IP-NEW} cluster: Shenyang, new ips size: 1, content: [172.20.20.157:8101:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 16:54:17,541 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@bookservice, ips: 172.20.20.157:8101_true,172.20.20.157:8102_true,
+
+2022-10-05 16:54:20,234 INFO DEFAULT_GROUP@@borrowservice {SYNC} {IP-NEW} cluster: Shenyang, new ips size: 1, content: [172.20.20.157:8301:unknown:Shenyang_1.0_true_false_Shenyang]
+
+2022-10-05 16:54:20,234 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrowservice, ips: 172.20.20.157:8301_true,
+
+2022-10-05 16:54:21,160 INFO DEFAULT_GROUP@@userservice {SYNC} {IP-NEW} cluster: Tianjin, new ips size: 1, content: [172.20.20.157:8202:unknown:Tianjin_1.0_true_false_Tianjin]
+
+2022-10-05 16:54:21,160 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@userservice, ips: 172.20.20.157:8201_true,172.20.20.157:8202_true,
+

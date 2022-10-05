@@ -8,6 +8,7 @@ import com.test.service.client.UserClient;
 import entity.Book;
 import entity.Borrow;
 import entity.User;
+import io.seata.spring.annotation.GlobalTransactional;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.client.RestTemplate;
@@ -28,6 +29,7 @@ public class BorrowServiceImpl implements BorrowService{
     @Resource
     BookClient bookClient;
 
+    //通过Userid查询详细借阅信息
     @Override
     public UserBorrowDetail getUserBorrowDetailByUid(int uid) {
         List<Borrow> borrow = mapper.getBorrowsByUid(uid);
@@ -39,7 +41,9 @@ public class BorrowServiceImpl implements BorrowService{
         return new UserBorrowDetail(user, bookList);
     }
 
+    //添加借阅信息
     @Override
+    @GlobalTransactional
     public boolean doBorrow(int uid, int bid) {
         //1. 判断图书和用户是否都支持借阅
         if(bookClient.bookRemain(bid) < 1)

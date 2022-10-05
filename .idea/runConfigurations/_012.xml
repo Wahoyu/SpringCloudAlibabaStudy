@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="用户服务-01实例" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="user-service" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.UserApplication" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <envs>
+      <env name="server.port" value="8201" />
+      <env name="spring.cloud.nacos.discovery.cluster-name" value="Shenyang" />
+    </envs>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

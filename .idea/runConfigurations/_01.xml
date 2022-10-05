@@ -1,0 +1,20 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="图书服务-01实例" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="book-service" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.test.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.BookApplication" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <envs>
+      <env name="server.port" value="8101" />
+      <env name="spring.cloud.nacos.discovery.cluster-name" value="Shenyang" />
+    </envs>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
