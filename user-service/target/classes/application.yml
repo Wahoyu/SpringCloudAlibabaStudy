@@ -22,3 +22,20 @@ spring:
       transport:
         # 添加监控页面地址即可
         dashboard: localhost:8858
+seata:
+  # 注册
+  registry:
+    # 使用Nacos
+    type: nacos
+    nacos:
+      # 使用Seata的命名空间，这样才能正确找到Seata服务，由于组使用的是SEATA_GROUP，配置默认值就是，就不用配了
+      namespace: 7872ba05-825e-4dbb-9daf-71ccf39a35fd
+      username: nacos
+      password: nacos
+  # 配置
+  config:
+    type: nacos
+    nacos:
+      namespace: 7872ba05-825e-4dbb-9daf-71ccf39a35fd
+      username: nacos
+      password: nacos
